@@ -1,3 +1,5 @@
+df1caed Task 2.1
+1334094 Task 1.2
 6238bfa Task 1.1
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
